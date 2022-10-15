@@ -10,7 +10,13 @@ I made a micro ecommerce backend with a team of other interns as part of my summ
 
 <ul>
 <li>I got introduced to the concept of REST APIs and I developed the application with this in mind. </li>
-<li> </li>
-<li> I learnt about quality assurance and testing. </li>
+<li>I learnt about cron jobs and how to make one in laravel. </li>
+<li>I learnt about quality assurance and testing, we tested each others work and we reviewed and merged each others work. </li>
+<li>We have learnt and worked using the gitflow work flow method where we make three branches (main, dev and qa), main is the production, dev is the branch that we develope in it as we take feature branchs from it then making a pull request then the code get reviewed and merged to the dev, the qa is the branch where we make the quality assurance.</li>
+<li>We have made the ERD diagram for the project so we have learnt alot about database design. </li>
 </ul>
 
+
+<h2>This is the ERD diagram</h2>
+
+![]()
