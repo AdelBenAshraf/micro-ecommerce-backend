@@ -19,4 +19,4 @@ I made a micro ecommerce backend with a team of other interns as part of my summ
 
 <h2>This is the ERD diagram</h2>
 
-![]()
+![](https://github.com/AdelBenAshraf/micro-ecommerce-backend/blob/main/project_showcase/micro-ecommerce-erd-digram-v4.png)
