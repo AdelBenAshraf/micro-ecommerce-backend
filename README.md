@@ -20,3 +20,17 @@ I made a micro ecommerce backend with a team of other interns as part of my summ
 <h2>This is the ERD diagram</h2>
 
 ![](https://github.com/AdelBenAshraf/micro-ecommerce-backend/blob/main/project_showcase/micro-ecommerce-erd-digram-v4.png)
+
+<In this ecommerce you can be either an admin or a user as an admin you must register and login to get an authentication token, we use sanctum for authentication then after that you can add categories, brands and products.
+As a user you can see the available products add them to your cart then checkout but if you didn't checkout in a certain amount of time let's say you did't checkout before 12 hours the cron job will empty your cart.>
+
+<h2>This some samples of the REST API responses</h2>
+
+<h3>Admin register</h3>
+
+![](https://github.com/AdelBenAshraf/micro-ecommerce-backend/blob/main/project_showcase/admin-register.PNG)
+
+<h3>Admin login</h3>
+
+![](https://github.com/AdelBenAshraf/micro-ecommerce-backend/blob/main/project_showcase/admin-login.PNG)
+
